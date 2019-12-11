@@ -102,7 +102,6 @@ construction.css
 
 
 #newsInfo .newsList li{border-bottom: 1px solid #dbdbdb;background: #fff;}
-#newsInfo .newsList li:last-child{/* border-bottom:none; */}
 #newsInfo .newsList li a{display: -webkit-flex!important;display: flex!important;-webkit-flex-wrap: wrap!important;flex-wrap: wrap!important;-webkit-box-pack: justify;justify-content: space-between;/* min-height: 120px; */}
 
 
@@ -156,7 +155,6 @@ construction.css
 @media screen and (max-width: 1100px) {
 	.home-about .section-lead{font-size: 36px;}
 	.tablet .home-about .box-column-size1:nth-child(1){width: calc(50% - 50px);}
-	.tablet .home-about .box-column-size1:nth-child(2){}
 	.tablet .home-about .section-lead{font-size: 45px;}
 }
 
